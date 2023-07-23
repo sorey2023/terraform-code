@@ -1,0 +1,6 @@
+my_region  = "us-east-1"
+profile    = "default"
+topic_name = "sns-dev"
+Team       = "dev"
+protocol   = "email"
+endpoint   = "sorelec@yahoo.fr"
